@@ -6,18 +6,25 @@
 4. Запустите бота.
 
 КЛЮЧИ ОТ ПРОТОКОЛОВ ///
->open_web - open_web_key1234 \n
->youtube - youtubeprotocol123  \n
->vk - vk_protocol \n
+>open_web = open_web_key1234
 ------------------
->stop_pc - stopprotocol123 \n
->restart_pc - restartprotocol123  \n
->restart - restartbotprotocol123 \n
->stop - stopbotprotocol123 \n
+>youtube = youtubeprotocol123
+------------------
+>vk = vk_protocol
+------------------
+>stop_pc = stopprotocol123
+------------------
+>restart_pc = restartprotocol123
+------------------
+>restart = restartbotprotocol123
+------------------
+>stop = stopbotprotocol123 
 --------------------
->screen_pc screenprotocol \n
->youtube - youtubeprotocol123 \n
->vk - vk_protocol \n
+>screen_pc = screenprotocol
+------------------
+>youtube = youtubeprotocol123
+------------------
+>vk - vk_protocol 
 
 ====КЛЮЧИ ОТ ПРОТОКОЛОВ ВЫ МОЖЕТЕ СМЕНИТЬ В КОДЕ БОТА====
 
